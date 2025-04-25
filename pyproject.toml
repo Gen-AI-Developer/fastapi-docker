@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [project.scripts]
-fastapi-docker = "fastapi_docker:main"
+main = "fastapi_docker:main"
 
 [build-system]
 requires = ["hatchling"]
